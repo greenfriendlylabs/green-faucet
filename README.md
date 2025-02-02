@@ -1,4 +1,4 @@
-# 🌿 Green Faucet - The Eco-Friendly LUNC Faucet
+# 🌿 Green Faucet - The eco-friendly LUNC faucet
 
 ## 🌍 Introduction
 Welcome to the **Green Faucet**, an eco-friendly and community-driven **Luna Classic (LUNC) faucet**. This faucet allows users to claim LUNC for free—without ads, just through staking and pure blockchain generosity. Our goal is to help spread the word about LUNC and support its ecosystem in a sustainable way.
