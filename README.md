@@ -25,6 +25,7 @@ Or scan the QR code on the faucet page to contribute directly.
 
 ![image](https://github.com/user-attachments/assets/5b6535bf-687e-48ef-ba7f-3145c8944b52)
 
+Link: [Go to Green Faucet](https://www.greenfriendlylabs.com/green-faucet/)
 
 ## 📌 Roadmap
 - ✅ Initial launch with free LUNC claims
